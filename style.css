@@ -31,6 +31,7 @@ border-radius: 8px;
 box-shadow: inset 6px 6px 10px #cbced1, inset -6px -6px 10px #ffffff;
 background-color: #f0f0f0;
 outline: none;
+color: #333;
 }
 
 .login-form input[type="submit"] {
@@ -51,6 +52,12 @@ transition: background-color 0.3s;
 background-color: #45a049;
 }
 
+
+
+/* Thi is very important */
+
 .login-form input[type="submit"]:active {
-background-color: #3e8e41;
+background-color: #3e8e42;
 }
+
+
