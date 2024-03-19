@@ -1,6 +1,8 @@
 # Simple Login System
 
 This is a simple login system implemented using HTML and CSS for the frontend and JavaScript for the backend validation. It allows users to input their username and password and verifies if they are valid credentials.
+## Live Link
+[Logiin](https://cletsymedia.github.io/group1_project/) 
 
 ## Features
 
