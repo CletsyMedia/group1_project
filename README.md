@@ -48,9 +48,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Authors
 
-- John Doe (john.doe@example.com)
-- Jane Smith (jane.smith@example.com)
-
 - CletsyMedia (cletussam12@yahoo.com)
 - Faithyife (ifee.techglobal@gmail.com)
 - NwoluDavid (Nwoludave@gmail.com)
