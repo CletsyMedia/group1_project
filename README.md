@@ -1,4 +1,5 @@
-Group one github project
-We created a html file named index.html
-we created a css file named style.css
-The html file is a  markup language while the css is for styling.
+we created  a file named index.html for the markup language
+we created a css file  for the styling
+The html file contains the html elements and tags
+This is our login website
+
