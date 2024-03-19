@@ -1,4 +1,4 @@
-# Simple Static Login Page
+# Simple Static Login Page Group 0
 
 This is a simple login system implemented using HTML and CSS for the frontend. It allows users to input their username and password just for demonstration.
 
